@@ -1,0 +1,2 @@
+# LTE---Wi-fi-Handover-Interoperability-system-testing.
+The LTE-Wifi interoperability system is an application based UE script, which performs set of operations between license (LTE eNodeB) and unlicensed (Wi-Fi / IEEE 802.11u based WiGW) spectrum such as connect, request handover, recover buffer and disconnect operations by a DHCP request to WiGW and by obtaining same IP as that of LTE network after handover. LTE – Wifi handover resolves the data demand for UEs.
